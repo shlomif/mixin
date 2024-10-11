@@ -4,7 +4,7 @@ use strict;
 use warnings;
 no strict 'refs';
 use vars qw($VERSION);
-$VERSION = 0.07;
+$VERSION = '0.08';
 
 =head1 NAME
 
@@ -64,7 +64,7 @@ intended to be mixin.  It can have no private methods.  Instead, use lexical met
   my $private = sub { ... };
   $self->$private(@args);
 
-instead of 
+instead of
 
   sub _private { ... }
   $self->_private(@args);
@@ -135,6 +135,10 @@ If these advantages don't apply, proceed directly to traits.
 =back
 
 =head1 AUTHOR
+
+Current ( ~ 2024 ) maintainer: Shlomi Fish ( L<https://www.shlomifish.org/me/contact-me/> ).
+
+Original author/maintainer:
 
 Michael G Schwern <schwern@pobox.com>
 

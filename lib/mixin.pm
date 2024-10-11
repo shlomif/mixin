@@ -202,8 +202,11 @@ A mixin will not warn if the mixin and the user define the same method.
 
 =head1 AUTHOR
 
-Michael G Schwern E<lt>schwern@pobox.comE<gt>
+Current ( ~ 2024 ) maintainer: Shlomi Fish ( L<https://www.shlomifish.org/me/contact-me/> ).
 
+Original author/maintainer:
+
+Michael G Schwern E<lt>schwern@pobox.comE<gt>
 
 =head1 LICENSE
 

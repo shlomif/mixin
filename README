@@ -103,6 +103,11 @@ NOTES
     A mixin will not warn if the mixin and the user define the same method.
 
 AUTHOR
+    Current ( ~ 2024 ) maintainer: Shlomi Fish (
+    <https://www.shlomifish.org/me/contact-me/> ).
+
+    Original author/maintainer:
+
     Michael G Schwern <schwern@pobox.com>
 
 LICENSE
