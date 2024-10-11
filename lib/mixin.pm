@@ -217,6 +217,7 @@ under the same terms as Perl itself.
 
 L<http://dev.perl.org/licenses/>
 
+Shlomi Fish disclaims all copyright ownership to his changes.
 
 =head1 SEE ALSO
 
