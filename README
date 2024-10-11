@@ -118,6 +118,8 @@ LICENSE
 
     <http://dev.perl.org/licenses/>
 
+    Shlomi Fish disclaims all copyright ownership to his changes.
+
 SEE ALSO
     Role::Tiny - A stand alone implementation of traits/roles, like mixins
     but better.
