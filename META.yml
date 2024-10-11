@@ -21,10 +21,10 @@ name: mixin
 provides:
   mixin:
     file: lib/mixin.pm
-    version: '0.08'
+    version: '0.09'
   mixin::with:
     file: lib/mixin/with.pm
-    version: '0.08'
+    version: '0.09'
 requires:
   base: '0'
 resources:
@@ -32,5 +32,5 @@ resources:
   homepage: https://github.com/shlomif/mixin
   license: http://dev.perl.org/licenses/
   repository: https://github.com/shlomif/mixin
-version: '0.08'
+version: '0.09'
 x_serialization_backend: 'CPAN::Meta::YAML version 0.018'
